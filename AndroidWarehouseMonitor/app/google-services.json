@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "768595022719",
+    "firebase_url": "https://androidwarehousemonitor.firebaseio.com",
+    "project_id": "androidwarehousemonitor",
+    "storage_bucket": "androidwarehousemonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768595022719:android:2a95385ff4499d5f",
+        "android_client_info": {
+          "package_name": "android.packt.com.androidwarehousemonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768595022719-noc6u64lpkqf0tu38eq773fut63v5bp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.packt.com.androidwarehousemonitor",
+            "certificate_hash": "aff2a856d74e1b80002061b7f65b19304a5150bf"
+          }
+        },
+        {
+          "client_id": "768595022719-873n5pbpa86pl6reog7q34u46iabgft2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPs181G3V-yLS680w49owlyjcN82LfrO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768595022719-873n5pbpa86pl6reog7q34u46iabgft2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
